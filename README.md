@@ -1,6 +1,6 @@
 # 4.Execution_of_NetworkCommands
-## NAME : SANJAY.C
-## REGISTER NUMBER : 212223240150
+## NAME : DHINESH.M
+## REGISTER NUMBER : 212223040040
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
